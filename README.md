@@ -1,6 +1,6 @@
 ### Hi there 👋. 
 
-I'm a developer who is interested in software development, operating system development, Math, Data structures and virtualisation.
+I'm a developer who is interested in open source software development, operating system development, Math, Data structures and virtualisation.
 
 📚 **Medium blog:** https://medium.com/@paulo.miguel.almeida.rodenas
 
@@ -13,6 +13,10 @@ I'm a developer who is interested in software development, operating system deve
 👯 **Looking to collaborate on** Any AWS-related subjects (I'm a former Solutions Architect @ AWS)
 
 📫 **How to reach me:** https://twitter.com/PauloMigAlmeida
+
+### Meaningful open source contributions:
+* Added support for most of the GitHub Marketplace && Github App APIs to the https://github.com/hub4j/github-api. Currently used at Jenkins integration with GiHub.
+* Created the first AWS Lambda runtime for C lang (C11). This provides negligible cold-start overhead (single digit millisecond).
 
 
 ### Statistics
