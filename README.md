@@ -2,15 +2,15 @@
 
 I'm a developer who is interested in software development, operating system development, Math, Data structures and virtualisation.
 
-I ocassionaly blog about things that caught my attention at: https://medium.com/@paulo.miguel.almeida.rodenas
+📚: https://medium.com/@paulo.miguel.almeida.rodenas
 
-I'm the owner of the [Auckland Data Structures and Algorithms Meetup group](https://www.meetup.com/Auckland-Programming-Algorithms-and-Performance/)
+🤝 owner of the [Auckland Data Structures and Algorithms Meetup group](https://www.meetup.com/Auckland-Programming-Algorithms-and-Performance/)
 
-🔭 I’m currently working on a general-purpose SSH unikernel to reduce the the attack surface to its minimum conceivable size.
+🔭 *Currently working on* a general-purpose SSH unikernel to reduce the the attack surface to its minimum conceivable size.
 
-🌱 I’m currently learning the Linux Kernel source code. I'm aiming to start contributing with the cgroups/ebpf subsystems shortly.
+🌱 *Currently learning the Linux Kernel* source code. I'm aiming to start contributing with the cgroups/ebpf subsystems shortly.
 
-👯 I’m looking to collaborate on AWS-related subjects. I'm a former Solutions Architect @ AWS.
+👯 *Looking to collaborate on* any AWS-related subjects (I'm a former Solutions Architect @ AWS)
 
 📫 How to reach me: https://twitter.com/PauloMigAlmeida
 
