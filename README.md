@@ -15,8 +15,8 @@ I'm a developer who is interested in open source software development, operating
 📫 **How to reach me:** https://twitter.com/PauloMigAlmeida
 
 ### Meaningful open source contributions:
-* Added support for most of the GitHub Marketplace && Github App APIs to the https://github.com/hub4j/github-api. Currently used at Jenkins integration with GiHub.
-* Created the first AWS Lambda runtime for C lang (C11). This provides negligible cold-start overhead (single digit millisecond).
+* Added support for most of the GitHub Marketplace && Github App APIs to the [github-api](https://github.com/hub4j/github-api). Currently used at Jenkins integration with GiHub.
+* Created the first [AWS Lambda runtime for C lang (C11)](https://github.com/PauloMigAlmeida/aws-lambda-c-runtime). This provides negligible cold-start overhead (single digit millisecond).
 
 
 ### Statistics
