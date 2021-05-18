@@ -2,7 +2,7 @@
 
 I'm a developer who is interested in open source software development, operating system development, Math, Data structures and virtualisation.
 
-📚 **Medium blog:** https://medium.com/@paulo.miguel.almeida.rodenas
+📚 **Medium blog:** https://deepdives.medium.com/
 
 🤝 **Community work:** Owner of the [Auckland Data Structures and Algorithms Meetup group](https://www.meetup.com/Auckland-Programming-Algorithms-and-Performance/)
 
