@@ -6,17 +6,18 @@ I'm a developer who is interested in open source software development, operating
 
 🤝 **Community work:** Owner of the [Auckland Data Structures and Algorithms Meetup group](https://www.meetup.com/Auckland-Programming-Algorithms-and-Performance/)
 
-🔭 **Currently working**: General-purpose SSH unikernel to reduce the the attack surface to its minimum conceivable size.
+🔭 **Currently working**: Writing a hobbyist x86-64 Operating System for the joy of learning about the hardware-to-software interface [AlmeidaOS](https://github.com/PauloMigAlmeida/AlmeidaOS).
 
-🌱 **Currently learning** The Linux Kernel source code. I'm aiming to start contributing with the cgroups/ebpf subsystems shortly.
+🌱 **Currently learning** The Linux Kernel source code / x86-64 Architecture / C / Assembly (I'm still in doubt whether I like the AT&T or Intel syntax more)
 
 👯 **Looking to collaborate on** Any AWS-related subjects (I'm a former Solutions Architect @ AWS)
 
 📫 **How to reach me:** https://twitter.com/PauloMigAlmeida
 
 ### Meaningful open source contributions:
-* Added support for most of the GitHub Marketplace && Github App APIs to the [github-api](https://github.com/hub4j/github-api). Currently used at Jenkins integration with GiHub.
+
 * Created the first [AWS Lambda runtime for C lang (C11)](https://github.com/PauloMigAlmeida/aws-lambda-c-runtime). This provides negligible cold-start overhead (single digit millisecond).
+* Added support for most of the GitHub Marketplace && Github App APIs to the [github-api](https://github.com/hub4j/github-api). Currently used at Jenkins integration with GiHub.
 
 
 ### Statistics
