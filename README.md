@@ -8,7 +8,7 @@ I'm a developer who is interested in open source software development, operating
 
 🔭 **Currently working**: Writing a hobbyist x86-64 Operating System for the joy of learning about the hardware-to-software interface [AlmeidaOS](https://github.com/PauloMigAlmeida/AlmeidaOS).
 
-🌱 **Currently learning** The Linux Kernel source code / x86-64 Architecture / C / Assembly (I'm still in doubt whether I like the AT&T or Intel syntax more)
+🌱 **Currently learning** The Linux Kernel source code / x86-64 Architecture / C / Assembly
 
 👯 **Looking to collaborate on** Any AWS-related subjects (I'm a former Solutions Architect @ AWS)
 
