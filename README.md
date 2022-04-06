@@ -6,7 +6,7 @@ I'm a developer who is interested in open source software development, operating
 
 🤝 **Community work:** Owner of the [Auckland Data Structures and Algorithms Meetup group](https://www.meetup.com/Auckland-Programming-Algorithms-and-Performance/)
 
-🔭 **Currently working**: Writing a hobbyist x86-64 Operating System for the joy of learning about the hardware-to-software interface [AlmeidaOS](https://github.com/PauloMigAlmeida/AlmeidaOS).
+🔭 **Currently working**: Writing NES emulator in Rust to learn both rust lang and emulation/virtualisation concepts [MaNES](https://github.com/PauloMigAlmeida/MaNES).
 
 🌱 **Currently learning** The Linux Kernel source code / x86-64 Architecture / C / Assembly
 
@@ -14,10 +14,10 @@ I'm a developer who is interested in open source software development, operating
 
 📫 **How to reach me:** https://twitter.com/PauloMigAlmeida
 
-### Meaningful open source contributions:
+### Favorite open source projects I created:
 
 * Created the first [AWS Lambda runtime for C lang (C11)](https://github.com/PauloMigAlmeida/aws-lambda-c-runtime). This provides negligible cold-start overhead (single digit millisecond).
-* Added support for most of the GitHub Marketplace && Github App APIs to the [github-api](https://github.com/hub4j/github-api). Currently used at Jenkins integration with GiHub.
+* Created my own hobbyist x86-64 Operating System [AlmeidaOS](https://github.com/PauloMigAlmeida/AlmeidaOS).
 
 
 ### Statistics
