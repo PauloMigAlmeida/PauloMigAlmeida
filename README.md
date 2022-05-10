@@ -4,7 +4,7 @@ I'm a developer who is interested in open source software development, operating
 
 📚 **Medium blog:** https://deepdives.medium.com/
 
-🤝 **Community work:** Owner of the [Auckland Data Structures and Algorithms Meetup group](https://www.meetup.com/Auckland-Programming-Algorithms-and-Performance/)
+🤝 **Community work:** Former organiser of the [Auckland Data Structures and Algorithms Meetup group](https://www.meetup.com/Auckland-Programming-Algorithms-and-Performance/)
 
 🔭 **Currently working**: Writing NES emulator in Rust to learn both rust lang and emulation/virtualisation concepts [MaNES](https://github.com/PauloMigAlmeida/MaNES).
 
