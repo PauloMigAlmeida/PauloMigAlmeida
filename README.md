@@ -14,7 +14,6 @@ I'm a developer who is interested in open source software development, operating
 
 👯 **Looking to collaborate on** Any AWS-related subjects (I'm a former Solutions Architect @ AWS)
 
-📫 **How to reach me:** https://twitter.com/PauloMigAlmeida
 
 ### Favorite open source projects I created:
 
