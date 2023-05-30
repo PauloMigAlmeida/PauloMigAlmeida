@@ -6,7 +6,6 @@ I'm a developer who is interested in open source software development, operating
 
 🤝 **Community work:** 
 * Casual 🐧 Linux Kernel Driver commiter
-* Former organiser of the [Auckland Data Structures and Algorithms Meetup group](https://www.meetup.com/Auckland-Programming-Algorithms-and-Performance/)
 
 🔭 **Currently working**: Writing in-memory database from scratch [MidoriDB](https://github.com/PauloMigAlmeida/MidoriDB).
 
