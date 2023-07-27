@@ -21,6 +21,5 @@ I'm a developer who is interested in open source software development, operating
 
 
 ### Statistics
-[![PauloMigAlmeida Github Stats](https://github-readme-stats.vercel.app/api?username=PauloMigAlmeida&count_private=true&show_icons=true)](https://github.com/PauloMigAlmeida/)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMigAlmeida&layout=compact)](https://github.com/PauloMigAlmeida)
 <br/>![](https://komarev.com/ghpvc/?username=PauloMigAlmeida)
