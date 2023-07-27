@@ -22,4 +22,4 @@ I'm a developer who is interested in open source software development, operating
 
 ### Statistics
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMigAlmeida&layout=compact)](https://github.com/PauloMigAlmeida)
-<br/>![](https://komarev.com/ghpvc/?username=PauloMigAlmeida)
+
