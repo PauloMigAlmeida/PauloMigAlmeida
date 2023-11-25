@@ -22,9 +22,9 @@ I'm a developer who is interested in open source software development, operating
 
 ### Favorite open source projects I created:
 
-* Created the first [AWS Lambda runtime for C lang (C11)](https://github.com/PauloMigAlmeida/aws-lambda-c-runtime). This provides negligible cold-start overhead (single digit millisecond).
-* Created my own hobbyist x86-64 Operating System [AlmeidaOS](https://github.com/PauloMigAlmeida/AlmeidaOS).
+* Created a hobbyist x86-64 Operating System [AlmeidaOS](https://github.com/PauloMigAlmeida/AlmeidaOS).
 * Created a hobbyist database engine [MidoriDB](https://github.com/PauloMigAlmeida/MidoriDB).
+* Created the first [AWS Lambda runtime for C lang (C11)](https://github.com/PauloMigAlmeida/aws-lambda-c-runtime). This provides negligible cold-start overhead (single digit millisecond).
 
 
 ### Statistics
